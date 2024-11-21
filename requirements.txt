@@ -1,5 +1,5 @@
 streamlit 
-py3Dmol
-requests
+py3Dmol 
 stmol 
-pandas 
+requests 
+pandas
