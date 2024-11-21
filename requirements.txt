@@ -4,5 +4,4 @@ stmol
 requests
 pandas
 ipyspeck
-ipwidgets
 ipython_genutils
