@@ -1,5 +1,6 @@
 import streamlit as st
 import py3Dmol
+import stmol
 import requests
 from stmol import showmol
 import pandas as pd
