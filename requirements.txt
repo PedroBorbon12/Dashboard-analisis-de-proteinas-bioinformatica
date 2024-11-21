@@ -4,3 +4,6 @@ stmol
 requests
 pandas
 showmol
+ipyspeck
+ipwidgets
+ipython_genutils
